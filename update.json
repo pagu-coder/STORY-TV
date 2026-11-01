@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "package": "STORY TV",
+  "package": "story.tv.drama.reels",
   "current_version": "1.2.5",
   "latest_version": "999.999.999.999.999",
   "force_update": true,
